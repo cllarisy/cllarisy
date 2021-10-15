@@ -35,3 +35,26 @@
   下午睡了好久，睡完去吃个晚饭，回来画了一个项目进展图，自认为还可以，就是不满足A4纸比例，太长了。
   闲时看了看B站，稚晖君更新了，是一个机械臂的视频，我只能说真的离谱，对搞嵌入式的人来说简直精神打击，人与人的差距...
   洗个澡，准备睡了。
+  
+找电子书技巧：
+关键词+filetype:pdf/txt等电子书格式
+网站：
+1各省市图书馆，
+浙江图书馆为例：https://www.zjlib.cn/
+2全国图书馆参考咨询联盟
+http://www.ucdrs.net/admin/union/index.do
+3鸠摩搜书：
+https://www.jiumodiary.com/
+4苦瓜书盘
+http://www.kgbook.com/
+5创世纪图书馆Library Genesis
+http://libgen.li/
+6古登堡计划
+https://www.gutenberg.org/
+7 PDFdrive
+https://www.pdfdrive.com/
+8Digi libraries 
+https://digilibraries.com/
+格式转换网站：
+All to all
+https://www.alltoall.net/
